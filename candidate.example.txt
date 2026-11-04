@@ -1,0 +1,18 @@
+<candidate_profile>
+I hold a B.Sc. in Business Informatics from a university in Graz (2023) and have worked for two years as a data analyst at a mid-sized retail company.
+
+In programming, I use Python and SQL daily, mainly with Pandas and scikit-learn, and I know the basics of JavaScript. I use Git and GitHub for all my projects, including pull requests and code reviews in a team of four. I have built internal REST APIs with FastAPI to serve sales forecasts.
+
+In AI, I completed online courses on machine learning and LLMs. I built a personal project that classifies customer support emails with the OpenAI API, and I am currently learning about RAG and vector databases.
+
+In data, I build dashboards in Power BI, write complex SQL queries on PostgreSQL, and have trained regression and classification models for demand forecasting that are used in production.
+
+Languages: German native, English fluent (C1), French basic (A2).
+</candidate_profile>
+
+<preferences>
+- Locations: Graz, Vienna or remote
+- Level: junior or mid
+- Role focus: data science or ML engineering first; LLM engineering second
+- Start: within three months
+</preferences>

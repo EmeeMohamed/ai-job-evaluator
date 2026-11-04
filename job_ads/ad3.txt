@@ -1,0 +1,5 @@
+LLM Engineer (m/f/d), Linz, hybrid
+- Python and experience building applications with LLM APIs
+- Prompt engineering and evaluating LLM outputs
+- Git
+- English fluent

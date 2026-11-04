@@ -1,0 +1,6 @@
+Data Scientist (m/f/d), Vienna, on-site
+- 3+ years of professional experience in machine learning
+- Strong Python, scikit-learn, and SQL
+- Experience with Azure ML or AWS SageMaker
+- German at C1 level required
+- Knowledge of LLMs is a plus

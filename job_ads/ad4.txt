@@ -1,0 +1,4 @@
+Frontend Developer (m/f/d), Graz, on-site
+- 2+ years with React and TypeScript
+- Experience with CSS frameworks (Tailwind)
+- Figma basics

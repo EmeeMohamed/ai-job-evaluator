@@ -1,0 +1,8 @@
+# Python environment and cache
+.venv/
+__pycache__/
+
+# Private data, never commit
+candidate.txt
+results.json
+.env

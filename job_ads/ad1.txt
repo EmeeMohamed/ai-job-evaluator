@@ -1,0 +1,5 @@
+Junior AI Engineer (m/f/d), Linz, hybrid
+- Build LLM-based features using Python and the Claude or OpenAI API
+- Experience with RAG and vector databases is a plus
+- Basic knowledge of Git and REST APIs
+- Good English; German is a plus

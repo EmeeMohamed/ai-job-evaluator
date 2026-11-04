@@ -1,0 +1,5 @@
+AI Product Analyst (m/f/d), Linz, remote
+- Translate business needs into requirements for AI features
+- Analyze LLM outputs and data with SQL or Python
+- Strong communication; German B2
+- Experience with ML is a plus
