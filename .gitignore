@@ -6,3 +6,6 @@ __pycache__/
 candidate.txt
 results.json
 .env
+phase4/docs/
+phase4/chroma_db/
+phase4/retrieval_eval.json
